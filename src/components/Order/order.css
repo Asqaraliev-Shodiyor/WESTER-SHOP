@@ -1,0 +1,16 @@
+.order-container {
+    width: 100%;
+    min-height: 300px;
+    padding-top: 30px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    padding-bottom: 15px;
+}
+
+.row .inp {
+    flex-grow: 1;
+}

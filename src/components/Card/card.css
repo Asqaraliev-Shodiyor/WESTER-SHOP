@@ -1,0 +1,20 @@
+.card {
+    flex-grow: 1 !important;
+    width: 290px;
+}
+
+.price {
+    display: flex;
+    color: orange;
+    flex-wrap: wrap;
+}
+
+.price2 {
+    color: blue;
+}
+
+.btn {
+    background-color: red !important;
+    width: 100%;
+    font-weight: bolder;
+}
